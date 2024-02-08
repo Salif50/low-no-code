@@ -36,6 +36,7 @@ Voici une organisation des outils de nocode et low-code en fonction de leur cat�
 | Nocode       | Supabase        | Plateforme de développement d'applications web et mobiles avec des fonctionnalités de backend sans serveur.                                                       | [Supabase](https://supabase.io/)       |
 | Nocode       | Google AppSheet | Outil de création d'applications web et mobiles à partir de feuilles de calcul Google Sheets.                                                                   | [Google AppSheet](https://www.appsheet.com/) |
 | Nocode       | DreamFactory    | Outil de création d'API sans code pour connecter des bases de données et des services dans des applications.                                                      | [DreamFactory](https://www.dreamfactory.com/) |
+| Nocode       | usestyle ia    | Outil de création se site web avec ia  sans code pour connecter des bases de données et des services dans des applications.                                                      | [usestyle](https://usestyle.ai/) |
 
 
 Cette réorganisation devrait fournir une vue claire des outils disponibles pour le développement d'applications mobiles et web, ainsi que leur classification en nocode ou low-code.
