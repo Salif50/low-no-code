@@ -40,3 +40,12 @@ Voici une organisation des outils de nocode et low-code en fonction de leur cat�
 
 
 Cette réorganisation devrait fournir une vue claire des outils disponibles pour le développement d'applications mobiles et web, ainsi que leur classification en nocode ou low-code.
+
+## lien de formation flutterflow 
+-- [firebase config](https://youtube.com/playlist?list=PLTkXvGtaQafVao-el1HGJebRHZJt2BIiv&si=ldC_E2PMzAyxsKv7)
+
+-- [Supabase config](https://youtu.be/SGWWQMaRWf8?si=MlCNrRgLs7Xpw1zK)
+
+-- [tous les backend](https://youtube.com/playlist?list=PLTkXvGtaQafXv5NFdTlO0q_MBZZ2cCdyg&si=Y_iVnmLzxjowQze6)
+
+-- [formation complète fr](https://youtube.com/@flutterflowfr?si=jntMl5A6JChXJO6i)
